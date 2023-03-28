@@ -26,5 +26,6 @@ The previously identified columns were worked on , in an orderly manner
 The Name and Longname column were checked for errors and correction was made to the one name(S.Radu) which had a symbol in his name instead of the appropriate initial.
 ### Percentages
 As advised by the Data Dictionary , the columns OVA and POT were reformatted to reflect percentages. Column from example was used to add % to the end of the row figures ,then the data type was changed to percentage.
+
 ![image](https://user-images.githubusercontent.com/124640415/228381751-9e59e573-25d0-496d-ad06-f9958561b816.png) ![image](https://user-images.githubusercontent.com/124640415/228381779-ac5da5a5-cca2-481d-a3ef-aa655be989dc.png)
 
