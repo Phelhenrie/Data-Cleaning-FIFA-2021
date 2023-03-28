@@ -18,9 +18,8 @@ After loading the data , whitespaces were removed by unticking the button from t
   ![image](https://user-images.githubusercontent.com/124640415/228378535-7018372d-6e2d-4676-bff7-e22e1fd09c4c.png) ![image](https://user-images.githubusercontent.com/124640415/228378552-7e1a3b35-7d18-4a3c-8bfa-3e251b22541e.png)
   
 ### Data Auditing: 
-To ensure data quality, during the auditing stage of understanding the data and identifying any inconsistencies, missing values, or errors that need to be addressed, the following columns were marked for cleaning ; Name, Longname, OVA , POT , Club , Contract , Positions , Height , Weight , Best position , Joined , Loan End date , Value, wage , release clause , W/F , SM , IR , and Hits.
+To ensure data quality, during the auditing stage of understanding the data and identifying any inconsistencies, missing values, or errors that need to be addressed, the following columns were marked for cleaning ; Name,OVA , POT , Contract, Height , Weight , Loan End date , Value, wage , release clause , W/F , SM , IR , and Hits.
 ### Data Cleaning and Transformation:
-
 The previously identified columns were worked on , in an orderly manner
 ###                                                                      Names
 The Name and Longname column were checked for errors and correction was made to the one name(S.Radu) which had a symbol in his name instead of the appropriate initial.
@@ -50,7 +49,7 @@ first step was to create a New custom column which If column 1 contains m multip
 
 ![image](https://user-images.githubusercontent.com/124640415/228390048-ef7e92b5-dea6-4d4e-b8be-525c9741da42.png)  ![VAL](https://user-images.githubusercontent.com/124640415/228390295-ae9263f8-6d2e-4499-a72e-a1c24aeca5e2.JPG)
 
-### W/F , SM , IR
+#### W/F , SM , IR
 These three columns contains player ratings in different aspect with a ranking of 1-5 . However a star symbol was encoded to each row and this was removed using the replace function and the data type was changed to numeric.
 
 ![image](https://user-images.githubusercontent.com/124640415/228390475-5e95db17-0e66-458a-ad3b-3ebef94c3a5b.png) ![image](https://user-images.githubusercontent.com/124640415/228390494-569345b3-2f78-4d68-8f59-4e477c69dd36.png)
