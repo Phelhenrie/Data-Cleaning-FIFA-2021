@@ -50,8 +50,14 @@ first step was to create a New custom column which If column 1 contains m multip
 
 ![image](https://user-images.githubusercontent.com/124640415/228390048-ef7e92b5-dea6-4d4e-b8be-525c9741da42.png)  ![VAL](https://user-images.githubusercontent.com/124640415/228390295-ae9263f8-6d2e-4499-a72e-a1c24aeca5e2.JPG)
 
+### W/F , SM , IR
+These three columns contains player ratings in different aspect with a ranking of 1-5 . However a star symbol was encoded to each row and this was removed using the replace function and the data type was changed to numeric.
+
+![image](https://user-images.githubusercontent.com/124640415/228390475-5e95db17-0e66-458a-ad3b-3ebef94c3a5b.png) ![image](https://user-images.githubusercontent.com/124640415/228390494-569345b3-2f78-4d68-8f59-4e477c69dd36.png)
 
 
+### Hits
+The filter pane reveals some figures in this column were coded in the shortened version, such as 1500 written as 1.5k. These were regularized using a similar approach as previously used and explained for the values and wages column.
 
-
+![image](https://user-images.githubusercontent.com/124640415/228390648-d450cafd-49ed-4744-b25f-39d81607a41a.png)  ![image](https://user-images.githubusercontent.com/124640415/228390668-a2d11a1c-4a30-49b2-bf97-a260781f888e.png)
 
