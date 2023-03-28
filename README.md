@@ -48,7 +48,8 @@ About 60% of the data values in this column contains weight in lbs (pounds) and 
 These three columns contains euro values in shortenend format where 1,500 euros was written as 1.5k and one million ,five hundred euros as 1.5m. The goal is to standardise the columns and convert to US dollars Hence the approach used was to dropped the euro symbol from all rows using find and replace, then split columns by m and k
 first step was to create a New custom column which If column 1 contains m multiplies the figure by 1,000,000 then if column 1 contains k multiply by 1000 else return the figure on the original column , this else function handles the values , wages or release clause in hundreds having no K or M attached (some players earn as low as 500 euro wage ).
 
-![image](https://user-images.githubusercontent.com/124640415/228390048-ef7e92b5-dea6-4d4e-b8be-525c9741da42.png) ![VAL](https://user-images.githubusercontent.com/124640415/228390155-dd02d7ac-5f5f-41f4-99c7-b3b8dbdbbfab.JPG)
+![image](https://user-images.githubusercontent.com/124640415/228390048-ef7e92b5-dea6-4d4e-b8be-525c9741da42.png)  ![VAL](https://user-images.githubusercontent.com/124640415/228390295-ae9263f8-6d2e-4499-a72e-a1c24aeca5e2.JPG)
+
 
 
 
