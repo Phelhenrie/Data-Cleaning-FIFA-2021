@@ -14,6 +14,6 @@ To ensure data quality , the following approach was used
 
 After loading the data , whitespaces were removed by unticking the button from the viewtab.
 
-#                                                WHITESPACES
+#                                                           White Spaces
   ![image](https://user-images.githubusercontent.com/124640415/228378535-7018372d-6e2d-4676-bff7-e22e1fd09c4c.png) ![image](https://user-images.githubusercontent.com/124640415/228378552-7e1a3b35-7d18-4a3c-8bfa-3e251b22541e.png)
 
