@@ -27,11 +27,11 @@ The Name and Longname column were checked for errors and correction was made to 
 ### Percentages
 As advised by the Data Dictionary , the columns OVA and POT were reformatted to reflect percentages. Column from example was used to add % to the end of the row figures ,then the data type was changed to percentage.
 
-![image](https://user-images.githubusercontent.com/124640415/228381751-9e59e573-25d0-496d-ad06-f9958561b816.png) ![image](https://user-images.githubusercontent.com/124640415/228381779-ac5da5a5-cca2-481d-a3ef-aa655be989dc.png)
+![image](https://user-images.githubusercontent.com/124640415/228381751-9e59e573-25d0-496d-ad06-f9958561b816.png)   ![image](https://user-images.githubusercontent.com/124640415/228381779-ac5da5a5-cca2-481d-a3ef-aa655be989dc.png)
 
 ### Contract
 This column contained inconsistent data type and format, hence this was reguarized using a combination of 3 columns , namely; Contract Start , Contract End , and Agreement and Contract duration. The filter view reveals players whose contract column specify they are on loan tallies with the year on the Loan end date column. while players whose contract indicate free transfer, tally with those clubless players with no wage or value or release clause . These were replaced with null as there is no specified loan end date since they're not on contract and have no recorded wages. 
 
-![image](https://user-images.githubusercontent.com/124640415/228384716-f1fe7622-0696-4d11-9c9a-71f3a6478f8a.png) ![image](https://user-images.githubusercontent.com/124640415/228384744-039f67f0-4aa1-4b2f-ba4e-6fc9a42a8dfe.png)
+![image](https://user-images.githubusercontent.com/124640415/228384716-f1fe7622-0696-4d11-9c9a-71f3a6478f8a.png)   ![image](https://user-images.githubusercontent.com/124640415/228384744-039f67f0-4aa1-4b2f-ba4e-6fc9a42a8dfe.png)
 
 
