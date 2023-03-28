@@ -63,3 +63,7 @@ The filter pane reveals some figures in this column were coded in the shortened 
 
 ![image](https://user-images.githubusercontent.com/124640415/228390648-d450cafd-49ed-4744-b25f-39d81607a41a.png)  ![image](https://user-images.githubusercontent.com/124640415/228390668-a2d11a1c-4a30-49b2-bf97-a260781f888e.png)
 
+## CONCLUSION
+
+At the end of the day, Data validation was done to verify that the data is accurate, complete, and consistent. Conclusively after what posed to be a Herculean task at first glance, i'm glad i rose up to the occassion to take the bull by the horn by participating in this #DatacleaningChallenge. This has served as a great learning curve for an Intermediate level analyst like me.
+Honing my analytical skills is a never ending journey hence i'm open to suggestions , recommendations and improvement . 
