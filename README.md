@@ -17,5 +17,10 @@ After loading the data , whitespaces were removed by unticking the button from t
 #                                                           White Spaces
   ![image](https://user-images.githubusercontent.com/124640415/228378535-7018372d-6e2d-4676-bff7-e22e1fd09c4c.png) ![image](https://user-images.githubusercontent.com/124640415/228378552-7e1a3b35-7d18-4a3c-8bfa-3e251b22541e.png)
   
-Data Auditing: To ensure data quality, during the auditing stage of understanding the data and identifying any inconsistencies, missing values, or errors that need to be addressed, the following columns were marked for cleaning ; Name, Longname, OVA , POT , Club , Contract , Positions , Height , Weight , Best position , Joined , Loan End date , Value, wage , release clause , W/F , SM , IR , and Hits.
+### Data Auditing: 
+To ensure data quality, during the auditing stage of understanding the data and identifying any inconsistencies, missing values, or errors that need to be addressed, the following columns were marked for cleaning ; Name, Longname, OVA , POT , Club , Contract , Positions , Height , Weight , Best position , Joined , Loan End date , Value, wage , release clause , W/F , SM , IR , and Hits.
+### Data Cleaning and Transformation:
 
+The previously identified columns were worked on , in an orderly manner
+##                                                                      Names
+The Name and Longname column were checked for errors and correction was made to one name who had  a symbol in his name instead of the appropriate initial
