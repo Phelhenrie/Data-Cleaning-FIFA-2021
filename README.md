@@ -1,4 +1,7 @@
 # Data-Cleaning-FIFA-2021
+
+![image](https://user-images.githubusercontent.com/124640415/228392237-c88fbd25-04da-4f42-ba26-ea4d4ce07027.png)
+
 ## Introduction
 This is a rundown of the cleaning process for FIFA '21 dataset. This data set was provided as part of a challenge #Datacleaningchallenge launched on twitter by data ethusiasts to test the prowess of newbies , intermediate and pro Data analyst alike for a large messy dataset.
 
@@ -7,7 +10,7 @@ The data set contains 18,979 rows and 77 columns of football players statistics 
 My prefered tool for this Data cleaning challenge based on proficiency is Power Query as available on Power BI
 
 ## Data Cleaning process
-![image](https://user-images.githubusercontent.com/124640415/228377986-ab40fab7-2cc5-4826-a431-ad90f7536d74.png)
+![image](https://user-images.githubusercontent.com/124640415/228392368-38bd42eb-cfd9-466e-9281-e81be0362360.png)
 
 
 To ensure data quality , the following approach was used
