@@ -42,6 +42,7 @@ The majority of values in this column displays height in centimeter. While a few
 ##  Weight
 About 60% of the data values in this column contains weight in lbs (pounds) and the other 40% in Kg . After splitting the column using Digits to non-digits function, A decision was made to unify all data values as KG and the standard conversion rate of 0.45392 was used to multiply the weight in Lbs value to give the equivalent in KG and rounded up.
 
-![image](https://user-images.githubusercontent.com/124640415/228388917-50d9bc34-9509-489c-9e22-888401d5b021.png) ![WEIGHT](https://user-images.githubusercontent.com/124640415/228388889-22b51e3d-455e-4f2c-81e2-9b91d3bf1c6c.JPG)
+![image](https://user-images.githubusercontent.com/124640415/228388917-50d9bc34-9509-489c-9e22-888401d5b021.png) ![WEIGHT](https://user-images.githubusercontent.com/124640415/228389245-255eec43-79f9-4144-b4ef-e257243bf3b9.JPG)
+
 
 
